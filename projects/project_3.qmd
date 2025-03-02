@@ -1,0 +1,10 @@
+---
+title: "Data Analysis and Regression Class Project"
+author: "Pinyi Li"
+date: "Mar 2024"
+---
+
+## Investigation of Alcohol Consumption's Impact on Liver Disorder
+
+-   Developed and refined a linear regression model to explore the relationship between blood test indicators of liver disorders and alcohol consumption, using backward stepwise regression for variable selection.
+-   Validated model accuracy by assessing multicollinearity with variance inflation factor (VIF) and residual plot analysis.

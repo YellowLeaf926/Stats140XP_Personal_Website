@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Stats140XP_Website",
+    "title": "Pinyi Li",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Pinyi Li is a fourth-year student double majoring in Chemistry and Statistics & Data Science at the University of California, Los Angeles. Outside of school, Pinyi enjoys practicing Chinese calligraphy. Currently, Pinyi is applying for data science master’s programs and is looking for summer internships.  Download My CV"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,124 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Pinyi Li",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA  B.S. Chemistry, B.S. Statistics and Data Science | Jun 2023 - Jun 2025\nUniversity of California, Santa Barbara | Santa Barbara, CA  B.S. Chemistry | Sep 2021 - Aug 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Pinyi Li",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMar 1, 2024\n\n\nData Analysis and Regression Class Project\n\n\nPinyi Li\n\n\n\n\nJun 1, 2024\n\n\nDesign and Analysis of Experiment Class Project\n\n\nGroup Project\n\n\n\n\nAug 1, 2024\n\n\nStatistical Models and Data Mining Class Project\n\n\nGroup Project\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Statistical Models and Data Mining Class Project",
+    "section": "",
+    "text": "Developed a predictive cost estimation model in R for Amazon orders, conducting exploratory data analysis and visualizing key trends to inform feature selection and model design.\nPreprocessed and cleaned data to ensure model accuracy; implemented multiple machine learning algorithms, including linear and lasso regression, random forest, SVM, XGBoost, and neural networks.\nOptimized model performance through hyperparameter tuning and applied model stacking techniques; evaluated models using RMSE and presented comparative results through visualizations."
+  },
+  {
+    "objectID": "projects/project_1.html#regression-project-amazon-order-cost-prediction",
+    "href": "projects/project_1.html#regression-project-amazon-order-cost-prediction",
+    "title": "Statistical Models and Data Mining Class Project",
+    "section": "",
+    "text": "Developed a predictive cost estimation model in R for Amazon orders, conducting exploratory data analysis and visualizing key trends to inform feature selection and model design.\nPreprocessed and cleaned data to ensure model accuracy; implemented multiple machine learning algorithms, including linear and lasso regression, random forest, SVM, XGBoost, and neural networks.\nOptimized model performance through hyperparameter tuning and applied model stacking techniques; evaluated models using RMSE and presented comparative results through visualizations."
+  },
+  {
+    "objectID": "projects/project_1.html#classification-project-2020-united-states-presidential-election-winner-prediction",
+    "href": "projects/project_1.html#classification-project-2020-united-states-presidential-election-winner-prediction",
+    "title": "Statistical Models and Data Mining Class Project",
+    "section": "Classification Project: 2020 United States Presidential Election Winner Prediction",
+    "text": "Classification Project: 2020 United States Presidential Election Winner Prediction\n\nDesigned and developed a predictive model to forecast the winner of the 2020 US Presidential Election, utilizing exploratory data analysis to uncover and visualize key trends for improved insights.\nPreprocessed datasets and implemented a range of machine learning algorithms, including logistic regression, random forest, SVM, and KNN, to create a robust predictive framework.\nTuned hyperparameters and applied model stacking techniques to enhance predictive accuracy and visualized comparative results to effectively assess model performance."
+  },
+  {
+    "objectID": "projects/project2.html",
+    "href": "projects/project2.html",
+    "title": "Design and Analysis of Experiment Class Group Project",
+    "section": "",
+    "text": "Led a randomized complete block design study to assess the impact of dark chocolate’s cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.\nManaged all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors."
+  },
+  {
+    "objectID": "projects/project2.html#impacts-of-dark-chocolate-with-varied-cocoa-content-and-dosage-on-urine-dopamine-levels",
+    "href": "projects/project2.html#impacts-of-dark-chocolate-with-varied-cocoa-content-and-dosage-on-urine-dopamine-levels",
+    "title": "Design and Analysis of Experiment Class Group Project",
+    "section": "",
+    "text": "Led a randomized complete block design study to assess the impact of dark chocolate’s cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.\nManaged all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors."
+  },
+  {
+    "objectID": "projects/project3.html",
+    "href": "projects/project3.html",
+    "title": "Data Analysis and Regression Class Project",
+    "section": "",
+    "text": "Developed and refined a linear regression model to explore the relationship between blood test indicators of liver disorders and alcohol consumption, using backward stepwise regression for variable selection.\nValidated model accuracy by assessing multicollinearity with variance inflation factor (VIF) and residual plot analysis."
+  },
+  {
+    "objectID": "projects/project3.html#investigation-of-alcohol-consumptions-impact-on-liver-disorder",
+    "href": "projects/project3.html#investigation-of-alcohol-consumptions-impact-on-liver-disorder",
+    "title": "Data Analysis and Regression Class Project",
+    "section": "",
+    "text": "Developed and refined a linear regression model to explore the relationship between blood test indicators of liver disorders and alcohol consumption, using backward stepwise regression for variable selection.\nValidated model accuracy by assessing multicollinearity with variance inflation factor (VIF) and residual plot analysis."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experiences",
+    "section": "",
+    "text": "Undergraduate Researcher with Professor Xiaowu Dai\nLos Angeles, CA | Jun 2024 – Oct 2024\n\nConducted research inspired by Doyle Group’s study “Identifying General Reaction Conditions by Bandit Optimization,” focusing on optimizing chemical reactions conditions using machine learning techniques.\nTested a broader range of parameters and algorithm variations (e.g., epsilon-greedy, UCB, Thompson Sampling, Bayesian UCB) under simulated scenarios, then applied findings to identify optimal reaction conditions.\nEnhanced the accuracy in identifying optimal ligands for C-H arylation to 88% with a new tested variation. Visualized results to compare algorithm performance.\nPerformed in-depth regret analysis on algorithm outcomes using Python and R, and visualized results.\n\n\n\n\nResearch Assistant in Professor Arnab Mukherjee’s Lab\nSanta Barbara, CA | Sept 2022 – June 2023\n\nPrepared essential growth media and reagents including RPMI, agar gel, and DMEM for cellular experiments, ensuring precise formulation and quality control.\nPerformed tissue culture operations such as cell maintenance, splitting, and cryopreservation; executed advanced molecular cloning techniques including primer design, PCR, gel electrophoresis, gel extraction, Gibson assembly, bacterial transformation, and plasmid preparation (mini/midi prep)."
+  },
+  {
+    "objectID": "experience.html#research-experience",
+    "href": "experience.html#research-experience",
+    "title": "Experiences",
+    "section": "",
+    "text": "Undergraduate Researcher with Professor Xiaowu Dai\nLos Angeles, CA | Jun 2024 – Oct 2024\n\nConducted research inspired by Doyle Group’s study “Identifying General Reaction Conditions by Bandit Optimization,” focusing on optimizing chemical reactions conditions using machine learning techniques.\nTested a broader range of parameters and algorithm variations (e.g., epsilon-greedy, UCB, Thompson Sampling, Bayesian UCB) under simulated scenarios, then applied findings to identify optimal reaction conditions.\nEnhanced the accuracy in identifying optimal ligands for C-H arylation to 88% with a new tested variation. Visualized results to compare algorithm performance.\nPerformed in-depth regret analysis on algorithm outcomes using Python and R, and visualized results.\n\n\n\n\nResearch Assistant in Professor Arnab Mukherjee’s Lab\nSanta Barbara, CA | Sept 2022 – June 2023\n\nPrepared essential growth media and reagents including RPMI, agar gel, and DMEM for cellular experiments, ensuring precise formulation and quality control.\nPerformed tissue culture operations such as cell maintenance, splitting, and cryopreservation; executed advanced molecular cloning techniques including primer design, PCR, gel electrophoresis, gel extraction, Gibson assembly, bacterial transformation, and plasmid preparation (mini/midi prep)."
+  },
+  {
+    "objectID": "experience.html#professional-experience",
+    "href": "experience.html#professional-experience",
+    "title": "Experiences",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nData Analyst Intern, Deloitte AI Institute\nShanghai, China | Aug 2023 – Sept 2023\n\nEvaluated AI model performance across general knowledge, logical reasoning, and translation tasks, documenting accuracy metrics, identifying improvement areas, and compiling pricing data to support commercial deployment strategies.\nTested and analyzed nearly 100 AI plugins for office applications, assessing functionality, requirement alignment, and user experience. Provided detailed feedback on key features, input-output formats, and potential issues for real-world usage."
+  },
+  {
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "Design and Analysis of Experiment Class Group Project",
+    "section": "",
+    "text": "Led a randomized complete block design study to assess the impact of dark chocolate’s cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.\nManaged all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors."
+  },
+  {
+    "objectID": "projects/project_2.html#impacts-of-dark-chocolate-with-varied-cocoa-content-and-dosage-on-urine-dopamine-levels",
+    "href": "projects/project_2.html#impacts-of-dark-chocolate-with-varied-cocoa-content-and-dosage-on-urine-dopamine-levels",
+    "title": "Design and Analysis of Experiment Class Group Project",
+    "section": "",
+    "text": "Led a randomized complete block design study to assess the impact of dark chocolate’s cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.\nManaged all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors."
+  },
+  {
+    "objectID": "projects/project_3.html",
+    "href": "projects/project_3.html",
+    "title": "Data Analysis and Regression Class Project",
+    "section": "",
+    "text": "Developed and refined a linear regression model to explore the relationship between blood test indicators of liver disorders and alcohol consumption, using backward stepwise regression for variable selection.\nValidated model accuracy by assessing multicollinearity with variance inflation factor (VIF) and residual plot analysis."
+  },
+  {
+    "objectID": "projects/project_3.html#investigation-of-alcohol-consumptions-impact-on-liver-disorder",
+    "href": "projects/project_3.html#investigation-of-alcohol-consumptions-impact-on-liver-disorder",
+    "title": "Data Analysis and Regression Class Project",
+    "section": "",
+    "text": "Developed and refined a linear regression model to explore the relationship between blood test indicators of liver disorders and alcohol consumption, using backward stepwise regression for variable selection.\nValidated model accuracy by assessing multicollinearity with variance inflation factor (VIF) and residual plot analysis."
   }
 ]

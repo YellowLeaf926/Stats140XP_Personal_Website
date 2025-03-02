@@ -1,11 +1,23 @@
 ---
-title: "Stats140XP_Website"
+title: "Pinyi Li"
+about:
+  template: broadside
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/YellowLeaf926
+    - text: Email
+      url: "mailto:pinyi02@g.ucla.edu"
 ---
 
-This is a Quarto website.
+Pinyi Li is a fourth-year student double majoring in Chemistry and Statistics & Data Science at the University of California, Los Angeles. Outside of school, Pinyi enjoys practicing Chinese calligraphy. Currently, Pinyi is applying for data science master's programs and is looking for summer internships. <br>
+Download [My CV](/Pinyi Li - CV 250123.pdf)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA <br>
+B.S. Chemistry, B.S. Statistics and Data Science | Jun 2023 - Jun 2025
+
+University of California, Santa Barbara | Santa Barbara, CA <br>
+B.S. Chemistry | Sep 2021 - Aug 2023
