@@ -16,8 +16,8 @@ Undergraduate Student | Statistics & Chemistry
 
 I am a fourth-year undergraduate student at UCLA, double majoring in Chemistry and Statistics & Data Science. My interests lie in using data-driven techniques to uncover meaningful patterns and applying machine learning to advance research and development (R&D) in healthcare and scientific research.<br>
 
-🔹 Experienced in: Data processing, statistical modeling, and visualization <br>
-🔹 Skilled in: R, Python, C++ <br>
+- Experienced in: Data processing, statistical modeling, and data visualization <br>
+- Skilled in: R, Python, C++ <br>
 
 Download [My CV](/Pinyi Li - CV 250123.pdf)
 

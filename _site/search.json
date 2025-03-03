@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Pinyi Li",
     "section": "",
-    "text": "Pinyi Li\nUndergraduate Student | Statistics & Chemistry\nI am a fourth-year undergraduate student at UCLA, double majoring in Chemistry and Statistics & Data Science. My interests lie in leveraging data-driven techniques to uncover meaningful patterns and applying machine learning to advance research and development (R&D) in healthcare and scientific research.\n🔹 Experienced in: Data processing, statistical modeling, and visualization  🔹 Skilled in: R, Python, C++ \nDownload My CV"
+    "text": "Undergraduate Student | Statistics & Chemistry\nI am a fourth-year undergraduate student at UCLA, double majoring in Chemistry and Statistics & Data Science. My interests lie in using data-driven techniques to uncover meaningful patterns and applying machine learning to advance research and development (R&D) in healthcare and scientific research.\n\nExperienced in: Data processing, statistical modeling, and data visualization \nSkilled in: R, Python, C++ \n\nDownload My CV"
   },
   {
     "objectID": "about.html",
@@ -39,21 +39,21 @@
     "href": "projects/project_1.html",
     "title": "Statistical Models and Data Mining Class Project",
     "section": "",
-    "text": "Developed a predictive cost estimation model in R for Amazon orders, conducting exploratory data analysis and visualizing key trends to inform feature selection and model design.\nPreprocessed and cleaned data to ensure model accuracy; implemented multiple machine learning algorithms, including linear and lasso regression, random forest, SVM, XGBoost, and neural networks.\nOptimized model performance through hyperparameter tuning and applied model stacking techniques; evaluated models using RMSE and presented comparative results through visualizations."
+    "text": "Developed a predictive cost estimation model in R for Amazon orders, conducting exploratory data analysis and visualizing key trends to inform feature selection and model design.\nPreprocessed and cleaned data to ensure model accuracy; implemented multiple machine learning algorithms, including linear and lasso regression, random forest, SVM, XGBoost, and neural networks.\nOptimized model performance through hyperparameter tuning and applied model stacking techniques; evaluated models using RMSE and presented comparative results through visualizations. Download Report"
   },
   {
     "objectID": "projects/project_1.html#regression-project-amazon-order-cost-prediction",
     "href": "projects/project_1.html#regression-project-amazon-order-cost-prediction",
     "title": "Statistical Models and Data Mining Class Project",
     "section": "",
-    "text": "Developed a predictive cost estimation model in R for Amazon orders, conducting exploratory data analysis and visualizing key trends to inform feature selection and model design.\nPreprocessed and cleaned data to ensure model accuracy; implemented multiple machine learning algorithms, including linear and lasso regression, random forest, SVM, XGBoost, and neural networks.\nOptimized model performance through hyperparameter tuning and applied model stacking techniques; evaluated models using RMSE and presented comparative results through visualizations."
+    "text": "Developed a predictive cost estimation model in R for Amazon orders, conducting exploratory data analysis and visualizing key trends to inform feature selection and model design.\nPreprocessed and cleaned data to ensure model accuracy; implemented multiple machine learning algorithms, including linear and lasso regression, random forest, SVM, XGBoost, and neural networks.\nOptimized model performance through hyperparameter tuning and applied model stacking techniques; evaluated models using RMSE and presented comparative results through visualizations. Download Report"
   },
   {
     "objectID": "projects/project_1.html#classification-project-2020-united-states-presidential-election-winner-prediction",
     "href": "projects/project_1.html#classification-project-2020-united-states-presidential-election-winner-prediction",
     "title": "Statistical Models and Data Mining Class Project",
     "section": "Classification Project: 2020 United States Presidential Election Winner Prediction",
-    "text": "Classification Project: 2020 United States Presidential Election Winner Prediction\n\nDesigned and developed a predictive model to forecast the winner of the 2020 US Presidential Election, utilizing exploratory data analysis to uncover and visualize key trends for improved insights.\nPreprocessed datasets and implemented a range of machine learning algorithms, including logistic regression, random forest, SVM, and KNN, to create a robust predictive framework.\nTuned hyperparameters and applied model stacking techniques to enhance predictive accuracy and visualized comparative results to effectively assess model performance."
+    "text": "Classification Project: 2020 United States Presidential Election Winner Prediction\n\nDesigned and developed a predictive model to forecast the winner of the 2020 US Presidential Election, utilizing exploratory data analysis to uncover and visualize key trends for improved insights.\nPreprocessed datasets and implemented a range of machine learning algorithms, including logistic regression, random forest, SVM, and KNN, to create a robust predictive framework.\nTuned hyperparameters and applied model stacking techniques to enhance predictive accuracy and visualized comparative results to effectively assess model performance. Download Report"
   },
   {
     "objectID": "projects/project2.html",
@@ -109,28 +109,28 @@
     "href": "projects/project_2.html",
     "title": "Design and Analysis of Experiment Class Project",
     "section": "",
-    "text": "Led a randomized complete block design study to assess the impact of dark chocolate’s cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.\nManaged all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors."
+    "text": "Led a randomized complete block design study to assess the impact of dark chocolate’s cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.\nManaged all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors. Download Report"
   },
   {
     "objectID": "projects/project_2.html#impacts-of-dark-chocolate-with-varied-cocoa-content-and-dosage-on-urine-dopamine-levels",
     "href": "projects/project_2.html#impacts-of-dark-chocolate-with-varied-cocoa-content-and-dosage-on-urine-dopamine-levels",
     "title": "Design and Analysis of Experiment Class Project",
     "section": "",
-    "text": "Led a randomized complete block design study to assess the impact of dark chocolate’s cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.\nManaged all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors."
+    "text": "Led a randomized complete block design study to assess the impact of dark chocolate’s cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.\nManaged all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors. Download Report"
   },
   {
     "objectID": "projects/project_3.html",
     "href": "projects/project_3.html",
     "title": "Data Analysis and Regression Class Project",
     "section": "",
-    "text": "Developed and refined a linear regression model to explore the relationship between blood test indicators of liver disorders and alcohol consumption, using backward stepwise regression for variable selection.\nValidated model accuracy by assessing multicollinearity with variance inflation factor (VIF) and residual plot analysis."
+    "text": "Developed and refined a linear regression model to explore the relationship between blood test indicators of liver disorders and alcohol consumption, using backward stepwise regression for variable selection.\nValidated model accuracy by assessing multicollinearity with variance inflation factor (VIF) and residual plot analysis. Download Report"
   },
   {
     "objectID": "projects/project_3.html#investigation-of-alcohol-consumptions-impact-on-liver-disorder",
     "href": "projects/project_3.html#investigation-of-alcohol-consumptions-impact-on-liver-disorder",
     "title": "Data Analysis and Regression Class Project",
     "section": "",
-    "text": "Developed and refined a linear regression model to explore the relationship between blood test indicators of liver disorders and alcohol consumption, using backward stepwise regression for variable selection.\nValidated model accuracy by assessing multicollinearity with variance inflation factor (VIF) and residual plot analysis."
+    "text": "Developed and refined a linear regression model to explore the relationship between blood test indicators of liver disorders and alcohol consumption, using backward stepwise regression for variable selection.\nValidated model accuracy by assessing multicollinearity with variance inflation factor (VIF) and residual plot analysis. Download Report"
   },
   {
     "objectID": "about.html#education",
@@ -151,7 +151,7 @@
     "href": "about.html#current-goals",
     "title": "About",
     "section": "Current Goals",
-    "text": "Current Goals\nI am actively seeking data science internships and applying for master’s programs to deepen my expertise in using data science for impactful solutions in healthcare analytics."
+    "text": "Current Goals\nI am actively seeking data science internships and applying for master’s programs to deepen my expertise in using data science techniques."
   },
   {
     "objectID": "about.html#skills-tools",
