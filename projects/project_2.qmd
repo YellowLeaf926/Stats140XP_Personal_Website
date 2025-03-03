@@ -8,3 +8,4 @@ date: "Jun 2024"
 
 -   Led a randomized complete block design study to assess the impact of dark chocolate's cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.
 -   Managed all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors.
+Download [Report](/Stats_101B_Final_Report.pdf)

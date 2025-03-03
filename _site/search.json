@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Pinyi Li",
     "section": "",
-    "text": "Pinyi Li is a fourth-year student double majoring in Chemistry and Statistics & Data Science at the University of California, Los Angeles. Outside of school, Pinyi enjoys practicing Chinese calligraphy. Currently, Pinyi is applying for data science master’s programs and is looking for summer internships.  Download My CV"
+    "text": "Pinyi Li\nUndergraduate Student | Statistics & Chemistry\nI am a fourth-year undergraduate student at UCLA, double majoring in Chemistry and Statistics & Data Science. My interests lie in leveraging data-driven techniques to uncover meaningful patterns and applying machine learning to advance research and development (R&D) in healthcare and scientific research.\n🔹 Experienced in: Data processing, statistical modeling, and visualization  🔹 Skilled in: R, Python, C++ \nDownload My CV"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "University of California, Los Angeles | Los Angeles, CA  B.S. Chemistry, B.S. Statistics and Data Science | Jun 2023 - Jun 2025\nUniversity of California, Santa Barbara | Santa Barbara, CA  B.S. Chemistry | Sep 2021 - Aug 2023"
   },
   {
     "objectID": "index.html#education",
@@ -88,14 +88,14 @@
     "href": "experience.html",
     "title": "Experiences",
     "section": "",
-    "text": "Undergraduate Researcher with Professor Xiaowu Dai\nLos Angeles, CA | Jun 2024 – Oct 2024\n\nConducted research inspired by Doyle Group’s study “Identifying General Reaction Conditions by Bandit Optimization,” focusing on optimizing chemical reactions conditions using machine learning techniques.\nTested a broader range of parameters and algorithm variations (e.g., epsilon-greedy, UCB, Thompson Sampling, Bayesian UCB) under simulated scenarios, then applied findings to identify optimal reaction conditions.\nEnhanced the accuracy in identifying optimal ligands for C-H arylation to 88% with a new tested variation. Visualized results to compare algorithm performance.\nPerformed in-depth regret analysis on algorithm outcomes using Python and R, and visualized results.\n\n\n\n\nResearch Assistant in Professor Arnab Mukherjee’s Lab\nSanta Barbara, CA | Sept 2022 – June 2023\n\nPrepared essential growth media and reagents including RPMI, agar gel, and DMEM for cellular experiments, ensuring precise formulation and quality control.\nPerformed tissue culture operations such as cell maintenance, splitting, and cryopreservation; executed advanced molecular cloning techniques including primer design, PCR, gel electrophoresis, gel extraction, Gibson assembly, bacterial transformation, and plasmid preparation (mini/midi prep)."
+    "text": "Undergraduate Researcher with Professor Xiaowu Dai\nLos Angeles, CA | Jun 2024 – Oct 2024\n\nConducted research inspired by Doyle Group’s study “Identifying General Reaction Conditions by Bandit Optimization,” focusing on optimizing chemical reactions conditions using machine learning techniques.\nTested a broader range of parameters and algorithm variations (e.g., epsilon-greedy, UCB, Thompson Sampling, Bayesian UCB) under simulated scenarios, then applied findings to identify optimal reaction conditions.\nEnhanced the accuracy in identifying optimal ligands for C-H arylation to 88% with a new tested variation. Visualized results to compare algorithm performance.\nPerformed in-depth regret analysis on algorithm outcomes using Python and R, and visualized results.\n\nDownload Report  View Project on GitHub\n\n\n\nResearch Assistant in Professor Arnab Mukherjee’s Lab\nSanta Barbara, CA | Sept 2022 – June 2023\n\nPrepared essential growth media and reagents including RPMI, agar gel, and DMEM for cellular experiments, ensuring precise formulation and quality control.\nPerformed tissue culture operations such as cell maintenance, splitting, and cryopreservation; executed advanced molecular cloning techniques including primer design, PCR, gel electrophoresis, gel extraction, Gibson assembly, bacterial transformation, and plasmid preparation (mini/midi prep)."
   },
   {
     "objectID": "experience.html#research-experience",
     "href": "experience.html#research-experience",
     "title": "Experiences",
     "section": "",
-    "text": "Undergraduate Researcher with Professor Xiaowu Dai\nLos Angeles, CA | Jun 2024 – Oct 2024\n\nConducted research inspired by Doyle Group’s study “Identifying General Reaction Conditions by Bandit Optimization,” focusing on optimizing chemical reactions conditions using machine learning techniques.\nTested a broader range of parameters and algorithm variations (e.g., epsilon-greedy, UCB, Thompson Sampling, Bayesian UCB) under simulated scenarios, then applied findings to identify optimal reaction conditions.\nEnhanced the accuracy in identifying optimal ligands for C-H arylation to 88% with a new tested variation. Visualized results to compare algorithm performance.\nPerformed in-depth regret analysis on algorithm outcomes using Python and R, and visualized results.\n\n\n\n\nResearch Assistant in Professor Arnab Mukherjee’s Lab\nSanta Barbara, CA | Sept 2022 – June 2023\n\nPrepared essential growth media and reagents including RPMI, agar gel, and DMEM for cellular experiments, ensuring precise formulation and quality control.\nPerformed tissue culture operations such as cell maintenance, splitting, and cryopreservation; executed advanced molecular cloning techniques including primer design, PCR, gel electrophoresis, gel extraction, Gibson assembly, bacterial transformation, and plasmid preparation (mini/midi prep)."
+    "text": "Undergraduate Researcher with Professor Xiaowu Dai\nLos Angeles, CA | Jun 2024 – Oct 2024\n\nConducted research inspired by Doyle Group’s study “Identifying General Reaction Conditions by Bandit Optimization,” focusing on optimizing chemical reactions conditions using machine learning techniques.\nTested a broader range of parameters and algorithm variations (e.g., epsilon-greedy, UCB, Thompson Sampling, Bayesian UCB) under simulated scenarios, then applied findings to identify optimal reaction conditions.\nEnhanced the accuracy in identifying optimal ligands for C-H arylation to 88% with a new tested variation. Visualized results to compare algorithm performance.\nPerformed in-depth regret analysis on algorithm outcomes using Python and R, and visualized results.\n\nDownload Report  View Project on GitHub\n\n\n\nResearch Assistant in Professor Arnab Mukherjee’s Lab\nSanta Barbara, CA | Sept 2022 – June 2023\n\nPrepared essential growth media and reagents including RPMI, agar gel, and DMEM for cellular experiments, ensuring precise formulation and quality control.\nPerformed tissue culture operations such as cell maintenance, splitting, and cryopreservation; executed advanced molecular cloning techniques including primer design, PCR, gel electrophoresis, gel extraction, Gibson assembly, bacterial transformation, and plasmid preparation (mini/midi prep)."
   },
   {
     "objectID": "experience.html#professional-experience",
@@ -107,14 +107,14 @@
   {
     "objectID": "projects/project_2.html",
     "href": "projects/project_2.html",
-    "title": "Design and Analysis of Experiment Class Group Project",
+    "title": "Design and Analysis of Experiment Class Project",
     "section": "",
     "text": "Led a randomized complete block design study to assess the impact of dark chocolate’s cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.\nManaged all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors."
   },
   {
     "objectID": "projects/project_2.html#impacts-of-dark-chocolate-with-varied-cocoa-content-and-dosage-on-urine-dopamine-levels",
     "href": "projects/project_2.html#impacts-of-dark-chocolate-with-varied-cocoa-content-and-dosage-on-urine-dopamine-levels",
-    "title": "Design and Analysis of Experiment Class Group Project",
+    "title": "Design and Analysis of Experiment Class Project",
     "section": "",
     "text": "Led a randomized complete block design study to assess the impact of dark chocolate’s cocoa content (40%, 70%, 85%) and dosage (50g, 100g, 150g) on urine dopamine levels in a simulated island population, using two-way ANOVA for data analysis.\nManaged all aspects of experimental design, including multi-stage sampling, data collection, and model validation (residual plot, interaction plot), while identifying opportunities for improving the procedure and controlling for confounding factors."
   },
@@ -131,5 +131,33 @@
     "title": "Data Analysis and Regression Class Project",
     "section": "",
     "text": "Developed and refined a linear regression model to explore the relationship between blood test indicators of liver disorders and alcohol consumption, using backward stepwise regression for variable selection.\nValidated model accuracy by assessing multicollinearity with variance inflation factor (VIF) and residual plot analysis."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of California, Los Angeles | Los Angeles, CA  B.S. Chemistry, B.S. Statistics and Data Science | Jun 2023 - Jun 2025\nUniversity of California, Santa Barbara | Santa Barbara, CA  B.S. Chemistry | Sep 2021 - Aug 2023"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\nTechnical: R, C++, Python, MATLAB, Gaussview, PyMOL, Microsoft Office (Word/Excel/PowerPoint) Language: Chinese (native), English (proficient)"
+  },
+  {
+    "objectID": "about.html#current-goals",
+    "href": "about.html#current-goals",
+    "title": "About",
+    "section": "Current Goals",
+    "text": "Current Goals\nI am actively seeking data science internships and applying for master’s programs to deepen my expertise in using data science for impactful solutions in healthcare analytics."
+  },
+  {
+    "objectID": "about.html#skills-tools",
+    "href": "about.html#skills-tools",
+    "title": "About",
+    "section": "Skills & Tools",
+    "text": "Skills & Tools\nProgramming Languages – R, C++, Python, MATLAB  Data Science – Data process, Data visualization, Statistical analysis, Predictive modeling, Machine learning  Other Tools – Git, Gaussview, PyMOL"
   }
 ]

@@ -2,8 +2,17 @@
 title: "About"
 ---
 
-About this site
+## Education
+University of California, Los Angeles | Los Angeles, CA <br>
+B.S. Chemistry, B.S. Statistics and Data Science | Jun 2023 - Jun 2025
 
-```{r}
-1 + 1
-```
+University of California, Santa Barbara | Santa Barbara, CA <br>
+B.S. Chemistry | Sep 2021 - Aug 2023
+
+## Skills & Tools
+Programming Languages – R, C++, Python, MATLAB <br>
+Data Science – Data process, Data visualization, Statistical analysis, Predictive modeling, Machine learning <br>
+Other Tools – Git, Gaussview, PyMOL <br>
+
+## Current Goals
+I am actively seeking data science internships and applying for master’s programs to deepen my expertise in using data science techniques.

@@ -11,13 +11,14 @@ about:
       url: "mailto:pinyi02@g.ucla.edu"
 ---
 
-Pinyi Li is a fourth-year student double majoring in Chemistry and Statistics & Data Science at the University of California, Los Angeles. Outside of school, Pinyi enjoys practicing Chinese calligraphy. Currently, Pinyi is applying for data science master's programs and is looking for summer internships. <br>
+Pinyi Li
+
+Undergraduate Student | Statistics & Chemistry
+
+I am a fourth-year undergraduate student at UCLA, double majoring in Chemistry and Statistics & Data Science. My interests lie in using data-driven techniques to uncover meaningful patterns and applying machine learning to advance research and development (R&D) in healthcare and scientific research.<br>
+
+🔹 Experienced in: Data processing, statistical modeling, and visualization <br>
+🔹 Skilled in: R, Python, C++ <br>
+
 Download [My CV](/Pinyi Li - CV 250123.pdf)
 
-## Education
-
-University of California, Los Angeles | Los Angeles, CA <br>
-B.S. Chemistry, B.S. Statistics and Data Science | Jun 2023 - Jun 2025
-
-University of California, Santa Barbara | Santa Barbara, CA <br>
-B.S. Chemistry | Sep 2021 - Aug 2023
